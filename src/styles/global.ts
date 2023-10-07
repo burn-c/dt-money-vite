@@ -21,4 +21,8 @@ body {
 body, input, textarea, button {
   font: 400 1rem Roboto, sans-serif;
 }
+
+button {
+  cursor: pointer;  
+}
 `
