@@ -1,34 +1,68 @@
 {
-  "transactions": [{
-    "id": 1,
-    "description": "Desenvolvimento de site",
-    "type": "income",
-    "category": "Venda",
-    "price": 14000,
-    "createdAt": "2023-10-09T02:51:27.610Z"
-  },
-  {
-    "id": 2,
-    "description": "Hospedagem do site",
-    "type": "outcome",
-    "category": "Hospedagem",
-    "price": 14,
-    "createdAt": "2023-10-09T09:51:27.610Z"
-  },
-  {
-    "id": 3,
-    "description": "Manutenção de site",
-    "type": "income",
-    "category": "Venda",
-    "price": 400,
-    "createdAt": "2023-08-09T08:23:27.610Z"
-  },
-  {
-    "id": 4,
-    "description": "Feira",
-    "type": "outcome",
-    "category": "Alimentação",
-    "price": 1633,
-    "createdAt": "2023-10-08T10:45:27.610Z"
-  }]
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2023-10-09T02:51:27.610Z"
+    },
+    {
+      "id": 2,
+      "description": "Hospedagem do site",
+      "type": "outcome",
+      "category": "Hospedagem",
+      "price": 14,
+      "createdAt": "2023-10-09T09:51:27.610Z"
+    },
+    {
+      "id": 3,
+      "description": "Manutenção de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 400,
+      "createdAt": "2023-08-09T08:23:27.610Z"
+    },
+    {
+      "id": 4,
+      "description": "Feira",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 1633,
+      "createdAt": "2023-10-08T10:45:27.610Z"
+    },
+    {
+      "type": "income",
+      "description": "App",
+      "price": 2342,
+      "category": "Venda",
+      "createdAt": "2023-10-09T05:50:59.700Z",
+      "id": 5
+    },
+    {
+      "type": "outcome",
+      "description": "Lanches",
+      "price": 123,
+      "category": "Alimentação",
+      "createdAt": "2023-10-09T06:04:38.387Z",
+      "id": 6
+    },
+    {
+      "type": "outcome",
+      "description": "Lache para equipe",
+      "price": 453,
+      "category": "Alimentação",
+      "createdAt": "2023-10-09T06:05:28.508Z",
+      "id": 7
+    },
+    {
+      "type": "outcome",
+      "description": "Almoço para equipe",
+      "price": 534,
+      "category": "Alimentação",
+      "createdAt": "2023-10-09T06:06:37.153Z",
+      "id": 8
+    }
+  ]
 }
